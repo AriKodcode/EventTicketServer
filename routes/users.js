@@ -62,7 +62,7 @@ users.get('/:username/summary', async (req, res) => {
           }
         }
         avgTicketPerEvent = total / allEvents.length;
-        res.status(200).json({
+        return res.status(200).json({
           totalTicketsBought: total,
           events: allEvents,
           averageTicketsPerEvent: avgTicketPerEvent,
