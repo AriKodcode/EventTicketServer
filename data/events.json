@@ -3,5 +3,15 @@
     "eventName": "kodcode",
     "ticketsAvailable": 100,
     "createdBy": "ari"
+  },
+  {
+    "eventName": "idf",
+    "ticketsAvailable": 100,
+    "createdBy": "ari"
+  },
+  {
+    "eventName": "jbh",
+    "ticketsAvailable": 100,
+    "createdBy": "ari"
   }
 ]

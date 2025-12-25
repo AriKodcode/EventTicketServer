@@ -8,5 +8,15 @@
     "username": "meir",
     "eventName": "kodcode",
     "ticketsBought": 50
+  },
+  {
+    "username": "ari",
+    "eventName": "idf",
+    "ticketsBought": 100
+  },
+  {
+    "username": "ari",
+    "eventName": "jbh",
+    "ticketsBought": 100
   }
 ]
